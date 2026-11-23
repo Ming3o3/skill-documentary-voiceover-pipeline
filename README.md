@@ -50,3 +50,7 @@ python3 -m venv /tmp/voiceover_venv
 - `zh-CN-YunjianNeural`（**云健，默认推荐**）：磁性沉稳纪录片男声，配合 `-4%` 语速与 160Hz 胸腔共鸣增益最具大片感。
 - `zh-CN-YunxiNeural`（**云希**）：年轻阳光科技 UP 主男声。
 - `zh-CN-YunyangNeural`（**云扬**）：专业沉稳新闻专题片播音男声。
+
+## License
+
+本项目基于 [MIT License](LICENSE) 开源。

@@ -1,0 +1,21 @@
+# 敏感配置与密钥文件（严禁提交）
+.env
+.env.*
+*.key
+*.pem
+*secret*
+*credential*
+*token*
+config.local.*
+
+# Python 与虚拟环境缓存
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS 与临时音频缓存文件
+.DS_Store
+_tmp*
+_concat_tmp.txt
+*.tmp.mp3
